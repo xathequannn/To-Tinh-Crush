@@ -1,38 +1,38 @@
 const CONFIG = {
 
-    introTitle: 'Em à!',
+introTitle: 'Em à!',
 
-    introDesc: `Anh Tạo Web Này Ra 
+introDesc: `Anh Tạo Web Này Ra 
 
-    Chỉ Để Nói 
+Chỉ Để Nói 
 
-    Là
+Là
 
-    Anh Yêu Em 😘,
+Anh Yêu Em 😘,
 
-    btnIntro: 'hihi',
+btnIntro: 'hihi',
 
-    title: 'Em À 😙',
+title: 'Em À 😙',
 
-    desc: 'Làm Người Yêu Anh Nhé 😘',
+desc: 'Làm Người Yêu Anh Nhé 😘',
 
-    btnYes: 'Em Đồng Ý ❤ <33',
+btnYes: 'Em Đồng Ý ❤ <33',
 
-    btnNo: 'Không, Anh trai à :3',
+btnNo: 'Không, Anh trai à :3',
 
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
 
-    btnReply: 'Gửi cho anh <3',
+btnReply: 'Gửi cho anh <3',
 
-    reply: 'Tại Vì Anh Đẹp Trai Đó  <33333333',
+reply: 'Tại Vì Anh Đẹp Trai Đó  <33333333',
 
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
 
-    messDesc: 'Hãy Inbox Anh Ngay Nhé .',
+messDesc: 'Hãy Inbox Anh Ngay Nhé .',
 
-    btnAccept: 'Okiiiii lun <3',
+btnAccept: 'Okiiiii lun <3',
 
-    messLink: 'https://m.me/XaTheQuan.VietNam 
+messLink: 'https://m.me/XaTheQuan.VietNam 
 
 }
 
